@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Zay Shop - Contact</title>
+    <title>Homecenter Shop - Contact</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -19,13 +19,6 @@
 
     <!-- Load map styles -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="" />
-<!--
-    
-TemplateMo 559 Zay Shop
-
-https://templatemo.com/tm-559-zay-shop
-
--->
 <script type="text/javascript">
 function MM_swapImgRestore() { //v3.0
   var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
@@ -58,7 +51,7 @@ function MM_swapImage() { //v3.0
     <nav class="navbar navbar-expand-lg navbar-light shadow">
         <div class="container d-flex justify-content-between align-items-center">
 
-            <a href="index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image2','','img/Recurso 2.png',1)"><img src="img/Recurso 1.png" alt="" width="100" height="75" id="Image2"></a><a class="navbar-brand text-success logo h1 align-self-center" href="index.html">
+            <a href="/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image2','','img/Recurso 2.png',1)"><img src="img/Recurso 1.png" alt="" width="100" height="75" id="Image2"></a><a class="navbar-brand text-success logo h1 align-self-center" href="/">
             &nbsp; </a>
 
             <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#templatemo_main_nav" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -100,7 +93,7 @@ function MM_swapImage() { //v3.0
                     </a>
                     <a class="nav-icon position-relative text-decoration-none" href="#">
                         <i class="fa fa-fw fa-user text-dark mr-3"></i>
-                        <span class="position-absolute top-0 left-100 translate-middle badge rounded-pill bg-light text-dark">+99</span>
+                        <span class="position-absolute top-0 left-100 translate-middle badge rounded-pill bg-light text-dark">+57</span>
                     </a>
                 </div>
             </div>
@@ -154,9 +147,9 @@ function MM_swapImage() { //v3.0
         <div class="contact-info">
           <h2>Contáctanos</h2>
           <ul class="list-unstyled">
-            <li><i class="fas fa-phone"></i> +1 234 567 890</li>
-            <li><i class="fas fa-map-marker-alt"></i> Managua, Nicaragua</li>
-            <li><i class="fas fa-envelope"></i> Milleniumhomecenter@gmail.com</li>
+            <li><i class="fas fa-phone"></i> +57 312 368 7595</li>
+            <li><i class="fas fa-map-marker-alt"></i> Manizales, Colombia</li>
+            <li><i class="fas fa-envelope"></i> homecenter@gmail.com</li>
           </ul>
         </div>
       </div>
@@ -164,8 +157,8 @@ function MM_swapImage() { //v3.0
         <div class="contact-social">
           <h2>Síguenos en</h2>
           <ul class="list-unstyled">
-            <li><a href="https://www.instagram.com/tu_usuario_instagram" target="_blank"><i class="fab fa-instagram">&nbsp; <span style="font-family: Roboto, sans-serif; color: #000000;">Millenium_Nic&nbsp;</span></i></a></li>
-            <li><a href="https://www.facebook.com/tu_pagina_facebook" target="_blank"><i class="fab fa-facebook-f">&nbsp; <span style="font-family: Roboto, sans-serif; color: #000000; font-style: normal;">Millenium Nicaragua</span></i></a></li>
+            <li><a href="https://www.instagram.com/tu_usuario_instagram" target="_blank"><i class="fab fa-instagram">&nbsp; <span style="font-family: Roboto, sans-serif; color: #000000;">Homecenter.co&nbsp;</span></i></a></li>
+            <li><a href="https://www.facebook.com/tu_pagina_facebook" target="_blank"><i class="fab fa-facebook-f">&nbsp; <span style="font-family: Roboto, sans-serif; color: #000000; font-style: normal;">Homecenter Colombia</span></i></a></li>
           </ul>
         </div>
       </div>
@@ -184,7 +177,7 @@ function MM_swapImage() { //v3.0
                 <div class="row pt-2">
                     <div class="col-12">
                         <p class="text-left text-light">
-                          Copyright &copy; 2023 Millenium</p>
+                          Copyright &copy; 2023 Homecenter</p>
                     </div>
                 </div>
             </div>

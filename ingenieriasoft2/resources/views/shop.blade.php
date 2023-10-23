@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Zay Shop - Product Listing Page</title>
+    <title>Homecenter Shop - Product Listing Page</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,13 +16,7 @@
     <!-- Load fonts style after rendering the layout styles -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;700;900&display=swap">
     <link rel="stylesheet" href="css/fontawesome.min.css">
-<!--
-    
-TemplateMo 559 Zay Shop
 
-https://templatemo.com/tm-559-zay-shop
-
--->
 <script type="text/javascript">
 function MM_swapImgRestore() { //v3.0
   var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
@@ -58,7 +52,7 @@ function MM_swapImage() { //v3.0
     <nav class="navbar navbar-expand-lg navbar-light shadow">
         <div class="container d-flex justify-content-between align-items-center">
 
-            <a href="index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image22','','img/Recurso 2.png',1)"><img src="img/Recurso 1.png" alt="" width="100" height="75" id="Image22"></a><a class="navbar-brand text-success logo h1 align-self-center" href="index.html">
+            <a href="/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image22','','img/Recurso 2.png',1)"><img src="img/Recurso 1.png" alt="" width="100" height="75" id="Image22"></a><a class="navbar-brand text-success logo h1 align-self-center" href="/">
             &nbsp; </a>
 
             <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#templatemo_main_nav" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -203,7 +197,7 @@ function MM_swapImage() { //v3.0
             <div class="product-details">
               <h2 class="product-title">Milwaukee M18</h2>
                 <p class="product-description">Taladro compacto inalámbrico de iones de litio de 18 voltios sin escobillas de 1/2 pulgada (solo herramienta) 2801-20</p>
-                <p class="product-price">$240.00</p>
+                <p class="product-price">$240.000</p>
           </div>
       </div>
         <div class="product-card">
@@ -211,7 +205,7 @@ function MM_swapImage() { //v3.0
             <div class="product-details">
                 <h2 class="product-title">TALADRO BOSCH PERCUTOR BRUSHLESS</h2>
                 <p class="product-description">GSB 18V-50 LI [18V] 2 Baterías [2.0Ah] image</p>
-                <p class="product-price">$350.00</p>
+                <p class="product-price">$350.000</p>
             </div>
         </div>
 		<div class="product-card">
@@ -219,7 +213,7 @@ function MM_swapImage() { //v3.0
             <div class="product-details">
                 <h2 class="product-title">TALADRO INALÁMBRICO STANLEY SCH20</h2>
                 <p class="product-description">Velocidad sin carga: 0-350/ 0-1500 rpm Luz LED.</p>
-                <p class="product-price">$260.00</p>
+                <p class="product-price">$260.000</p>
             </div>
         </div>
 		<div class="product-card">
@@ -227,7 +221,7 @@ function MM_swapImage() { //v3.0
             <div class="product-details">
                 <h2 class="product-title">DeWALT - DCD791D2-QW</h2>
                 <p class="product-description">Taladro inalámbrico con motor sin escobillas Su empuñadura ergonómica revestida con goma.</p>
-                <p class="product-price">$340.00</p>
+                <p class="product-price">$340.000</p>
             </div>
         </div>
 		<div class="product-card">
@@ -235,7 +229,7 @@ function MM_swapImage() { //v3.0
             <div class="product-details">
                 <h2 class="product-title">Makita - 2012NB</h2>
                 <p class="product-description">Cepilladora de madera, de espesor ligero, ideal para usar en talleres u obras.</p>
-                <p class="product-price">$570.00</p>
+                <p class="product-price">$570.000</p>
             </div>
         </div>
 		<div class="product-card">
@@ -243,7 +237,7 @@ function MM_swapImage() { //v3.0
             <div class="product-details">
                 <h2 class="product-title">DeWALT - DW733-QS</h2>
                 <p class="product-description">Cepillo de regrueso con cable fácil de trasladar.</p>
-                <p class="product-price">$760.00</p>
+                <p class="product-price">$760.000</p>
             </div>
         </div>
 		<div class="product-card">
@@ -251,7 +245,7 @@ function MM_swapImage() { //v3.0
             <div class="product-details">
                 <h2 class="product-title">Compresor 6 L DeWALT</h2>
                 <p class="product-description">Compresor móvil de seis litros con motor sin aceite.</p>
-                <p class="product-price">$490.00</p>
+                <p class="product-price">$490.000</p>
             </div>
         </div>
 		<div class="product-card">
@@ -259,7 +253,7 @@ function MM_swapImage() { //v3.0
             <div class="product-details">
                 <h2 class="product-title">Hyundai power - HYAC50-31V</h2>
                 <p class="product-description">Tiene asa de agarre y ruedas, lo que facilita su transporte.</p>
-                <p class="product-price">$24.99</p>
+                <p class="product-price">$240.990</p>
             </div>
         </div>
 		
@@ -309,7 +303,7 @@ function MM_swapImage() { //v3.0
                                                 <a href="#"><img class="img-fluid brand-img" src="img/3M_wordmark.svg.png" alt="Brand Logo"></a>
                                             </div>
                                             <div class="col-3 p-md-5">
-                                                <a href="#"><img class="img-fluid brand-img" src="img/2560px-Honda_logo.svg.png" alt="Brand Logo"></a>
+                                                <a href="https://global.honda/en/"><img class="img-fluid brand-img" src="img/2560px-Honda_logo.svg.png" alt="Brand Logo"></a>
                                             </div>
                                             <div class="col-3 p-md-5">
                                                 <a href="#"><img class="img-fluid brand-img" src="img/2560px-Milwaukee_Logo.svg.png" alt="Brand Logo"></a>
@@ -382,39 +376,38 @@ function MM_swapImage() { //v3.0
     <!--End Brands-->
 
 
-    <!-- Start Footer -->
-    <footer class="bg-dark" id="tempaltemo_footer">
+  <!-- Start Footer -->
+  <footer class="bg-dark" id="tempaltemo_footer">
         <div class="container">
             <div class="row">
 
                 <div class="col-md-4 pt-5">
-                    <h2 class="h2 text-success border-bottom pb-3 border-light logo">Millenium</h2>
+                    <h2 class="h2 text-success border-bottom pb-3 border-light logo">HOMECENTER</h2>
                     <ul class="list-unstyled text-light footer-link-list">
                         <li>
                             <i class="fas fa-map-marker-alt fa-fw"></i>
-                            123 Consectetur at ligula 10660
+                           Cl 67b#31a-16
                         </li>
                         <li>
                             <i class="fa fa-phone fa-fw"></i>
-                            <a class="text-decoration-none" href="tel:010-020-0340">010-020-0340</a>
+                            <a class="text-decoration-none" href="tel:010-020-0340">312-368-7595</a>
                         </li>
                         <li>
                             <i class="fa fa-envelope fa-fw"></i>
-                            <a class="text-decoration-none" href="mailto:info@company.com">Milleniumhomecenter@gmail.com</a>
+                            <a class="text-decoration-none" href="mailto:info@company.com">Homecenter@gmail.com</a>
                         </li>
                     </ul>
                 </div>
-
-                
-          </div>
-                </div>
+        </div>
+        </div>
 
         <div class="w-100 bg-black py-3">
             <div class="container">
                 <div class="row pt-2">
                     <div class="col-12">
                         <p class="text-left text-light">
-                        Copyright &copy; 2023 Millenium</p>
+                            Copyright &copy; 2023 Homecenter 
+                        </p>
                     </div>
                 </div>
             </div>

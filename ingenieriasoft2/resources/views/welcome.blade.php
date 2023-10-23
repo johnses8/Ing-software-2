@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Zay Shop eCommerce HTML CSS Template</title>
+    <title>Homecenter Shop</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -16,13 +16,6 @@
     <!-- Load fonts style after rendering the layout styles -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;700;900&display=swap">
     <link rel="stylesheet" href="css/fontawesome.min.css">
-<!--
-    
-TemplateMo 559 Zay Shop
-
-https://templatemo.com/tm-559-zay-shop
-
--->
 <script type="text/javascript">
 function MM_swapImgRestore() { //v3.0
   var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
@@ -49,14 +42,15 @@ function MM_swapImage() { //v3.0
 </head>
 
 <body onLoad="MM_preloadImages('img/Recurso 2.png')">
+    
     <!-- Start Top Nav -->
  
 
     <!-- Header -->
 <nav class="navbar navbar-expand-lg navbar-light shadow">
   <div class="container d-flex justify-content-between align-items-center">
-
-            <a href="welcome.blade.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('inicio','','img/Recurso 2.png',1)"><img src="img/Recurso 1.png" alt="" width="100" height="75" id="inicio"></a><a class="navbar-brand text-success logo h1 align-self-center" href="welcome.blade.php">
+  <div class="w-100 d-flex justify-content-between">
+            <a href="/" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('inicio','','img/Recurso 2.png',1)"><img src="img/Recurso 1.png" alt="" width="100" height="75" id="inicio"></a><a class="navbar-brand text-success logo h1 align-self-center" href="/">
           &nbsp; </a>
 
             <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#templatemo_main_nav" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -133,7 +127,6 @@ function MM_swapImage() { //v3.0
             <li data-bs-target="#template-mo-zay-hero-carousel" data-bs-slide-to="1"></li>
             <li data-bs-target="#template-mo-zay-hero-carousel" data-bs-slide-to="2"></li>
 			<li data-bs-target="#template-mo-zay-hero-carousel" data-bs-slide-to="3"></li>
-			<li data-bs-target="#template-mo-zay-hero-carousel" data-bs-slide-to="4"></li>
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
@@ -157,14 +150,15 @@ function MM_swapImage() { //v3.0
             <div class="carousel-item">
                 <div class="container">
                     <div class="row p-5">
-                        <div class="mx-auto col-md10 col-lg-10 order-lg-center">
-                            <img src="img/Millenium banner-03-03.jpg" alt="" width="1196" height="600" class="img-fluid">
+                         <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
+                            <img src="img/Millenium banner-03-03.jpg" alt="" width="4000" height="3000" class="img-fluid">
                         </div>
                       <div class="col-lg-6 mb-0 d-flex align-items-left">
-                            <div class="text-align-left">
-                                <h1 class="h1"></h1>
-                                <h3 class="h2"></h3>
-                                <p>     
+                            <div class="text-align-left align-self-center">
+                                <h1 class="h1 text-success"><b>&nbsp;</b></h1>
+                                <h3 class="h2">TALADRO PERCUTOR XCM - DE RUPTURA</h3>
+                                <p>
+                                "Este taladro es una herramienta electromecánica de alta calidad, diseñada para realizar perforaciones precisas en diversos materiales como madera, metal y plástico.
                               </p>
                           </div>
                       </div>
@@ -174,34 +168,16 @@ function MM_swapImage() { //v3.0
 		  <div class="carousel-item">
                 <div class="container">
                     <div class="row p-5">
-                        <div class="mx-auto col-md-8 col-lg-4 order-lg-center">
-                            <img class="img-fluid" src="img/ANUNCIO A MAMÁ.jpg" alt="">
+                        <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
+                            <img class="img-fluid" src="img/Anuncio 2 usando figura retorica.png" alt=""  width="4000" height="3000" class="img-fluid">
                         </div>
-                        <div class="col-lg-0 mb-0 d-flex align-items-center">
-                            <div class="text-align-left">
-                                <h1 class="h1"></h1>
-                                <h3 class="h2"> </h3>
+                        <div class="col-lg-6 mb-0 d-flex align-items-left">
+                            <div class="text-align-left align-self-center">
+                                <h1 class="h1 text-success"><b>&nbsp;</b></h1>
+                                <h3 class="h2">HIDROLAVADORA PRK216 NRS – DE CHORRO</h3>
                                 <p>
-                                    
-                                </p>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-          </div>
-		  <div class="carousel-item">
-                <div class="container">
-                    <div class="row p-5">
-                        <div class="mx-auto col-md-8 col-lg-4 order-lg-last">
-                            <img class="img-fluid" src="img/Anuncio 2 usando figura retorica.png" alt="">
-                        </div>
-                        <div class="col-lg-0 mb-0 d-flex align-items-center">
-                            <div class="text-align-left">
-                                <h1 class="h1"></h1>
-                                <h3 class="h2"> </h3>
-                                <p>
-                                  
-                                </p>
+                                Dispone de una alta calidad, capaz de rociar agua a alta presión para la limpieza de una gran variedad de elementos. No sólo es de 10 a 50 veces más potente que una manguera de jardín, sino que además cuenta con la ventaja de utilizar hasta un 80% menos de agua.                              
+                            </p>
                           </div>
                       </div>
                   </div>
@@ -210,17 +186,16 @@ function MM_swapImage() { //v3.0
             <div class="carousel-item">
                 <div class="container">
                     <div class="row p-5">
-                        <div class="mx-auto col-md- col-lg-4 order-lg-center">
-                            <img class="img-fluid" src="img/Imagen de WhatsApp 2023-06-03 a las 20.15.09.jpg" alt="">
+                             <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
+                            <img class="img-fluid" src="img/Imagen de WhatsApp 2023-06-03 a las 20.15.09.jpg" alt="" width="4000" height="3000" class="img-fluid">
                         </div>
-                        <div class="col-lg-0 mb-0 d-flex align-items-center">
-                            <div class="text-align-left">
-                                <h1 class="h1"></h1>
-                                <h3 class="h2"> </h3>
+                        <div class="col-lg-6 mb-0 d-flex align-items-center">
+                            <div class="text-align-left align-self-center">
+                                <h1 class="h1 text-success"><b>&nbsp;</b></h1>
+                                <h3 class="h2">SILLA GAMER ERGONOMICA AF09 – DE ESCRITORIO</h3>
                                 <p>
-                                  
-                                </p>
-                            </div>
+                               Diseñada para ofrecer la máxima comodidad y soporte durante largas sesiones de juego. Esta silla cuenta con un diseño ergonómico que se adapta a la forma de tu cuerpo, proporcionando un soporte excepcional para tu espalda y cuello.                              </p>
+                          </div>
                         </div>
                     </div>
                 </div>
@@ -250,43 +225,35 @@ function MM_swapImage() { //v3.0
             <div class="col-12 col-md-3 p-5 mt-2">
                 <a href="#"><img src="img/banner_img_03.jpg" width="800" height="800" class="rounded-circle img-fluid border"></a>
               <h5 class="text-center mt-4 mb-3">Lamparas</h5>
-                <p class="text-center"><a class="btn btn-dark" >Go Shop</a></p>
             </div>
             <div class="col-12 col-md-3 p-5 mt-3">
                 <a href="#"><img src="img/modern-powerful-cordless-screwdriver-on-white-background-photo.jpg" class="rounded-circle img-fluid border"></a>
               <h2 class="h5 text-center mt-4 mb-3">Taladros&nbsp;</h2>
-                <p class="text-center"><a class="btn btn-dark">Go Shop</a></p>
 		    </div>
 			  <div class="col-12 col-md-3 p-5 mt-3">
                 <a href="#"><img src="img/7870152--11423_MED.png" class="rounded-circle img-fluid border"></a>
               <h2 class="h5 text-center mt-3 mb-3">Luces Led</h2>
-                <p class="text-center"><a class="btn btn-dark" >Go Shop</a></p>
           </div>
             <div class="col-12 col-md-3 p-5 mt-3">
                 <a href="#"><img src="img/Diferencas-entre-ceramica-e-porcelanato.jpg" class="rounded-circle img-fluid border"></a>
               <h2 class="h5 text-center mt-3 mb-3">Ceramicas</h2>
-                <p class="text-center"><a class="btn btn-dark">Go Shop</a></p>
             </div>
 			<div class="col-12 col-md-3 p-5 mt-3">
                 <a href="#"><img src="img/Toilet-PNG-Photo.png" class="rounded-circle img-fluid border"></a>
               <h2 class="h5 text-center mt-3 mb-3">Baño</h2>
-                <p class="text-center"><a class="btn btn-dark">Go Shop</a></p>
 			</div>
 			<div class="col-12 col-md-3 p-5 mt-3">
                 <a href="#"><img src="img/Recurso 4.jpg" class="rounded-circle img-fluid border"></a>
               <h2 class="h5 text-center mt-3 mb-3">Pintura</h2>
-                <p class="text-center"><a class="btn btn-dark">Go Shop</a></p>
 	      </div>
 			<div class="col-12 col-md-3 p-5 mt-3">
                 <a href="#"><img src="img/e7763980-fdf4-4f83-875f-e23ec547fd5d.jpg" class="rounded-circle img-fluid border"></a>
               <h2 class="h5 text-center mt-3 mb-3">Electrodomesticos</h2>
-                <p class="text-center"><a class="btn btn-dark">Go Shop</a></p>
 	        </div>
 			<div class="col-12 col-md-3 p-5 mt-3">
                 <a href="#"><img src="img/JJ-4L.jpg" class="rounded-circle img-fluid border"></a>
-              <h2 class="h5 text-center mt-3 mb-3">Jardinería</h2>
-                <p class="text-center"><a class="btn btn-dark">Go Shop</a></p>
-		  </div>	
+              <h2 class="h5 text-center mt-3 mb-3">Jardinería</h2>	
+            	  </div>	
       </div>
 </section>
     <!-- End Categories of The Month -->
@@ -295,7 +262,7 @@ function MM_swapImage() { //v3.0
 	
 	
 	<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/mZHAgyluZy4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <iframe width="1200" height="600" src="https://www.youtube.com/embed/mZHAgyluZy4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <!-- Start Featured Product -->
@@ -312,7 +279,7 @@ function MM_swapImage() { //v3.0
             <div class="row">
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
-                        <a href="shop-single.html">
+                        <a href="/shop-single">
                             <img src="img/o298552v54_GKT_18V-52_GC_dyn.jpg" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
@@ -324,9 +291,9 @@ function MM_swapImage() { //v3.0
                                     <i class="text-warning fa fa-star"></i>
                                     <i class="text-warning fa fa-star"></i>
                                 </li>
-                                <li class="text-muted text-right">$440.00</li>
+                                <li class="text-muted text-right">$440.000</li>
                           </ul>
-                            <a href="shop-single.html" class="h2 text-decoration-none text-dark">GKT 18V-52 GC</a>
+                            <a href="/shop-single" class="h2 text-decoration-none text-dark">GKT 18V-52 GC</a>
                             <p class="card-text">
                               PROFESSIONAL SIERRA DE INMERSIÓN BITURBO A BATERÍA
                           </p>
@@ -336,7 +303,7 @@ function MM_swapImage() { //v3.0
                 </div>
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
-                        <a href="kit de herramientas.html">
+                        <a href="/kitdeherramientas">
                         <img src="img/e4a5feb3f7f6483ebdd66911247c925d.jpg" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
@@ -348,9 +315,9 @@ function MM_swapImage() { //v3.0
                                     <i class="text-warning fa fa-star"></i>
                                     <i class="text-warning fa fa-star"></i>
                                 </li>
-                                <li class="text-muted text-right">$480.00</li>
+                                <li class="text-muted text-right">$480.000</li>
                           </ul>
-                            <a href="kit de herramientas.html" class="h2 text-decoration-none text-dark">Milwaukee M18 CN16GA-202X 18V Li-Ion</a>
+                            <a href="/kitdeherramientas" class="h2 text-decoration-none text-dark">Milwaukee M18 CN16GA-202X 18V Li-Ion</a>
                             <p class="card-text">
                               batería Juego de clavadora (2x baterías 2.0Ah) en maletín HD - 32-63 mm - 16 calibre
                           </p>
@@ -360,7 +327,7 @@ function MM_swapImage() { //v3.0
                 </div>
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
-                        <a href="cortadora de cesped.html">
+                        <a href="/cortadoradecesped">
                         <img src="img/tcSj7Vgk1637090295.png" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
@@ -372,9 +339,9 @@ function MM_swapImage() { //v3.0
                                     <i class="text-warning fa fa-star"></i>
                                     <i class="text-warning fa fa-star"></i>
                                 </li>
-                                <li class="text-muted text-right">$760.00</li>
+                                <li class="text-muted text-right">$760.000</li>
                             </ul>
-                            <a href="cortadora de cesped.html" class="h2 text-decoration-none text-dark">CORTADORA HRX217VKA</a>
+                            <a href="/cortadoradecesped" class="h2 text-decoration-none text-dark">CORTADORA HRX217VKA</a>
                             <p class="card-text">
                               Cortadora de césped auto propulsada, potenciada con un motor Honda GCV 190 de 6,5 hp, de fácil arranque y bajas emisiones.
                           </p>
@@ -394,32 +361,32 @@ function MM_swapImage() { //v3.0
             <div class="row">
 
                 <div class="col-md-4 pt-5">
-                  <h2 class="h2 text-success border-bottom pb-3 border-light logo">Millenium</h2>
+                    <h2 class="h2 text-success border-bottom pb-3 border-light logo">HOMECENTER</h2>
                     <ul class="list-unstyled text-light footer-link-list">
                         <li>
                             <i class="fas fa-map-marker-alt fa-fw"></i>
-                            123 Consectetur at ligula 10660
+                           Cl 67b#31a-16
                         </li>
                         <li>
                             <i class="fa fa-phone fa-fw"></i>
-                            <a class="text-decoration-none" href="tel:010-020-0340">010-020-0340</a>
+                            <a class="text-decoration-none" href="tel:010-020-0340">312-368-7595</a>
                         </li>
                         <li>
                             <i class="fa fa-envelope fa-fw"></i>
-                            <a class="text-decoration-none" href="mailto:info@company.com">milleniumhomecenter@gmail.com</a>
+                            <a class="text-decoration-none" href="mailto:info@company.com">Homecenter@gmail.com</a>
                         </li>
                     </ul>
                 </div>
+        </div>
+        </div>
 
-               
-                    </div>
-                </div>
         <div class="w-100 bg-black py-3">
             <div class="container">
                 <div class="row pt-2">
                     <div class="col-12">
                         <p class="text-left text-light">
-                        Copyright &copy; 2023 Millenium&nbsp;<a rel="sponsored" href="https://templatemo.com" target="_blank">&nbsp;</a></p>
+                            Copyright &copy; 2023 Homecenter 
+                        </p>
                     </div>
                 </div>
             </div>
