@@ -64,7 +64,7 @@
                             <a class="nav-link" href="/about">Sobre nosotros</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/shop">Tienda</a>
+                            <a class="nav-link" href="/tienda">Tienda</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/contact">Contacto&nbsp;</a>

@@ -1,0 +1,6 @@
+/* Estilos para el menú desplegable del carrito */
+.cart-dropdown {
+    right: auto; /* Elimina la alineación a la derecha */
+    left: -50px; /* Ajusta el valor para mover el menú hacia la izquierda */
+    /* Ajusta otros estilos según sea necesario */
+}

@@ -86,11 +86,11 @@ function MM_swapImage() { //v3.0
                   <a class="nav-icon d-none d-lg-inline" href="#" data-bs-toggle="modal" data-bs-target="#templatemo_search">
                       <i class="fa fa-fw fa-search text-dark mr-2"></i>
                   </a>
-                  <a class="nav-icon position-relative text-decoration-none" href="#">
+                  <a class="nav-icon position-relative text-decoration-none" href="/tienda">
                       <i class="fa fa-fw fa-cart-arrow-down text-dark mr-1"></i>
                       <span class="position-absolute top-0 left-100 translate-middle badge rounded-pill bg-light text-dark">7</span>
                   </a>
-        <a class="nav-icon position-relative text-decoration-none" href="#">
+        <a class="nav-icon position-relative text-decoration-none" href="/login">
                       <i class="fa fa-fw fa-user text-dark mr-3"></i>
         <span class="position-absolute top-0 left-100 translate-middle badge rounded-pill bg-light text-dark">+99</span>
                   </a>
@@ -223,35 +223,35 @@ function MM_swapImage() { //v3.0
       </div>
         <div class="row">
             <div class="col-12 col-md-3 p-5 mt-2">
-                <a href="#"><img src="img/banner_img_03.jpg" width="800" height="800" class="rounded-circle img-fluid border"></a>
+                <a href="/tienda"><img src="img/banner_img_03.jpg" width="800" height="800" class="rounded-circle img-fluid border"></a>
               <h5 class="text-center mt-4 mb-3">Lamparas</h5>
             </div>
             <div class="col-12 col-md-3 p-5 mt-3">
-                <a href="#"><img src="img/modern-powerful-cordless-screwdriver-on-white-background-photo.jpg" class="rounded-circle img-fluid border"></a>
+                <a href="/tienda"><img src="img/modern-powerful-cordless-screwdriver-on-white-background-photo.jpg" class="rounded-circle img-fluid border"></a>
               <h2 class="h5 text-center mt-4 mb-3">Taladros&nbsp;</h2>
 		    </div>
 			  <div class="col-12 col-md-3 p-5 mt-3">
-                <a href="#"><img src="img/7870152--11423_MED.png" class="rounded-circle img-fluid border"></a>
+                <a href="/tienda"><img src="img/7870152--11423_MED.png" class="rounded-circle img-fluid border"></a>
               <h2 class="h5 text-center mt-3 mb-3">Luces Led</h2>
           </div>
             <div class="col-12 col-md-3 p-5 mt-3">
-                <a href="#"><img src="img/Diferencas-entre-ceramica-e-porcelanato.jpg" class="rounded-circle img-fluid border"></a>
+                <a href="/tienda"><img src="img/Diferencas-entre-ceramica-e-porcelanato.jpg" class="rounded-circle img-fluid border"></a>
               <h2 class="h5 text-center mt-3 mb-3">Ceramicas</h2>
             </div>
 			<div class="col-12 col-md-3 p-5 mt-3">
-                <a href="#"><img src="img/Toilet-PNG-Photo.png" class="rounded-circle img-fluid border"></a>
+                <a href="/tienda"><img src="img/Toilet-PNG-Photo.png" class="rounded-circle img-fluid border"></a>
               <h2 class="h5 text-center mt-3 mb-3">Baño</h2>
 			</div>
 			<div class="col-12 col-md-3 p-5 mt-3">
-                <a href="#"><img src="img/Recurso 4.jpg" class="rounded-circle img-fluid border"></a>
+                <a href="/tienda"><img src="img/Recurso 4.jpg" class="rounded-circle img-fluid border"></a>
               <h2 class="h5 text-center mt-3 mb-3">Pintura</h2>
 	      </div>
 			<div class="col-12 col-md-3 p-5 mt-3">
-                <a href="#"><img src="img/e7763980-fdf4-4f83-875f-e23ec547fd5d.jpg" class="rounded-circle img-fluid border"></a>
+                <a href="/tienda"><img src="img/e7763980-fdf4-4f83-875f-e23ec547fd5d.jpg" class="rounded-circle img-fluid border"></a>
               <h2 class="h5 text-center mt-3 mb-3">Electrodomesticos</h2>
 	        </div>
 			<div class="col-12 col-md-3 p-5 mt-3">
-                <a href="#"><img src="img/JJ-4L.jpg" class="rounded-circle img-fluid border"></a>
+                <a href="/tienda"><img src="img/JJ-4L.jpg" class="rounded-circle img-fluid border"></a>
               <h2 class="h5 text-center mt-3 mb-3">Jardinería</h2>	
             	  </div>	
       </div>
